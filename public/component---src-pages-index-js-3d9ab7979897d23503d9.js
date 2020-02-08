@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),c=t.n(a);e.default=function(){return c.a.createElement("h1",null,"Ola Powersites")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3d9ab7979897d23503d9.js.map

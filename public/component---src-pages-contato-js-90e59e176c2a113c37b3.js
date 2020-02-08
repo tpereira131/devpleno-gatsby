@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{MGsB:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),u=t("WXhZ");n.default=function(){return r.a.createElement("div",null,r.a.createElement(u.a,null),r.a.createElement("h1",null,"Contato"))}},WXhZ:function(e,n,t){"use strict";var a=t("q1tI"),r=t.n(a);n.a=function(){return r.a.createElement("h1",null,"PowerSites 1.0")}}}]);
+//# sourceMappingURL=component---src-pages-contato-js-90e59e176c2a113c37b3.js.map
